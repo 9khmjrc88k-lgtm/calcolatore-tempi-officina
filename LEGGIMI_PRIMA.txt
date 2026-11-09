@@ -1,0 +1,13 @@
+BACKUP COMPLETO - CALCOLATORE TEMPI OFFICINA BRESCIA
+
+Questo archivio contiene tutti i file della versione verificata per GitHub Pages e PWA.
+
+Per pubblicare:
+1. Estrarre questo ZIP in una cartella del PC.
+2. Creare su GitHub il repository calcolatore-tempi-officina.
+3. Caricare nella root del repository tutti i file e le cartelle estratti, inclusa .github.
+4. In GitHub aprire Settings > Pages e scegliere Source: GitHub Actions.
+5. Controllare Actions > Deploy GitHub Pages.
+
+Non caricare lo ZIP come unico file nel repository. Caricare il suo contenuto estratto.
+Non pubblicare VIN reali, dati clienti, credenziali o tempari riservati.
